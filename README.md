@@ -10,16 +10,21 @@ This challenge helps explore Adavnced Data Storage and Retrieval to produce an a
   # Deliverable 1:
   --Determined the statistics of temperatues in June(peak summer)
   
-  ![Alt Text][\Resources\JuneTemps.png]
+  ![Alt Text](Resources/JuneTemps.png)
   
   # Deliverable 2:
   --Determined the statistics of temperatures in December(peak winter)
   
+  ![Alt Text](Resources/DecTemps.png)
+  
+  
   # Deliverable 3:
   --Determined the statistics of temperatures in different stations for the months of June and December
   
-  
+  ![Alt Text](Resources/PrecipitationTemps.png)
   # Results
+  
+  ![Alt Text](Resources/StationTemps.png)
   
   Key Differences in Weather:oahu,Hawaii
     . Both June and December temperatures are retrieved.
